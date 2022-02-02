@@ -1,0 +1,5 @@
+name: ExampleCriteria
+version: '${project.version}'
+main: me.char321.examplecriteria.ExampleCriteria
+api-version: 1.18
+depend: [ Slimefun, SFAdvancements ]
