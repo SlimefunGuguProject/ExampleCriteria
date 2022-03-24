@@ -1,0 +1,14 @@
+exc_exampleadvancement:
+  group: example_criteria
+  display:
+    type: BONE
+    name: Example Advancement
+    lore:
+    - Roll a 50/50 after dying
+  name: '&a[Example Advancement]'
+  criteria:
+    coinflip:
+      name: Roll a 50/50 after dying
+      type: random
+      amount: 1
+      chance: 0.5

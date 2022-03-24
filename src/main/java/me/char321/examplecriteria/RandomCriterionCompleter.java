@@ -60,4 +60,9 @@ public class RandomCriterionCompleter implements CriterionCompleter, Listener {
     public Class<? extends Criterion> getCriterionClass() {
         return RandomCriterion.class;
     }
+
+    @Override
+    public void reload() {
+        criteria.clear();
+    }
 }

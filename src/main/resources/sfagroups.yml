@@ -1,0 +1,6 @@
+example_criteria:
+  display:
+    type: GRASS_BLOCK
+    name: '&eExample Criteria'
+    lore:
+    - '&7&oAdvancements imported from Example Criteria plugin'
