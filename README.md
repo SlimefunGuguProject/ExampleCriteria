@@ -1,3 +1,4 @@
-This is an example of how to create custom criteria for SlimefunAdvancements
+# ExampleCriteria粘液任务模板
 
-The criterion in this example in particular is triggered on player death, and has a chance (configurable) to be performed.
+这是一个自定义粘液任务的附属，它为开发者提供了一个粘液任务模板 
+你可以根据该模板制作属于自己的粘液任务
